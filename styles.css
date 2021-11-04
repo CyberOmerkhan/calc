@@ -8,6 +8,10 @@ input{
     padding: 8px;
     grid-column: 1/-1;
 }
+button{
+    border: none;
+    outline: none;
+}
 .container{
     width: 400px;
     background-color: #000;
